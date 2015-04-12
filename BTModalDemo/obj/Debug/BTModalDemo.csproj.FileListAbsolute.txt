@@ -1,4 +1,0 @@
-K:\works\VS2012\Websites\BTModalDemo\BTModalDemo\bin\BTModalDemo.dll
-K:\works\VS2012\Websites\BTModalDemo\BTModalDemo\bin\BTModalDemo.pdb
-K:\works\VS2012\Websites\BTModalDemo\BTModalDemo\obj\Debug\BTModalDemo.dll
-K:\works\VS2012\Websites\BTModalDemo\BTModalDemo\obj\Debug\BTModalDemo.pdb
